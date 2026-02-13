@@ -1,2 +1,2 @@
 # Rust-learning-log
-Rust Language Learing Repository
+Rust Language Learning Log Repository
